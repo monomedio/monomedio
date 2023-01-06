@@ -5,6 +5,8 @@ I'm a Software Engineer with experience in full-stack and cloud development. I a
 ## Work Experience :computer:
 I am interning at [407 ETR](https://www.407etr.com/en/index.html) 🛣️ as a Software Engineer. Prior to that, I had volunteered to develop software at [Packt](packt.ca) ☕.
 
+For a complete resumé, you can reach me [here](mailto:samhuifromhk@gmail.com).
+
 
 ## Skill development roadmap 🌱
 These are just some of the technologies and tools that I aim to learn and build projects with in 2023:
