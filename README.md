@@ -9,7 +9,7 @@ For a complete resumé, you can reach me [here](mailto:samhuifromhk@gmail.com).
 
 
 ## Skill development roadmap 🌱
-These are just some of the technologies and tools that I aim to learn and build projects with in 2023:
+These are just some of the technologies and tools that I aim to (re)learn and build projects with in 2023:
 
 - Vanilla HTML, CSS, JS
 - DOM API
