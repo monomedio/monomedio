@@ -23,6 +23,6 @@ These are just some of the technologies and tools that I aim to learn and build 
 
 
 ## Find me around the web :earth_americas:
-- Building my professional network at [LinkedIn](https://www.linkedin.com/in/chinghui/)
+- Spinning my professional network at [LinkedIn](https://www.linkedin.com/in/chinghui/)
 - Sharing my life in photographs at [Instagram](https://www.instagram.com/samhooey/)
 - Listening to music on [Spotify](https://open.spotify.com/user/1279200303?si=1a20bb3d90154833)
