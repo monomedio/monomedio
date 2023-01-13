@@ -11,10 +11,13 @@ The world is welcome to contact me at `samhuifromhk@gmail.com`.
 
 
 ## Skill development roadmap 🌱
-These are just a handful of the tools and technologies that I aim to (re)learn and build projects with in 2023:
+These are just a handful topics that I aim to (re)learn and build projects with in 2023:
 
-```python
-to_learn = ["Vanilla HTML, CSS, JS", "DOM API", "React", "Next.js", "Express", "MongoDB", "Rust", "Docker", "AWS"]
+```javascript
+const toLearn = {
+	"fields": ["theory and implementation of distributed systems", "system design", "parallel programming"],
+	"tech": ["dom api", "next.js", "cassandra" "mongodb", "rust", "docker", "aws"]
+}
 ```
 
 
