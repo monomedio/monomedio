@@ -10,7 +10,7 @@ Prior to that, I volunteered to develop software at [Packt](packt.ca) ☕.
 The world is welcome to contact me at `samhuifromhk@gmail.com`.
 
 
-## Skill development roadmap 🌱
+## Knowledge development roadmap 🌱
 These are just a handful topics that I aim to (re)learn and build projects with in 2023:
 
 ```javascript
