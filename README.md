@@ -3,23 +3,19 @@ I'm a budding Software Engineer with experience in full-stack and cloud developm
 
 
 ## Work Experience :computer:
-I am interning at [407 ETR](https://www.407etr.com/en/index.html) 🛣️ as a Cloud Engineer. Prior to that, I had volunteered to develop software at [Packt](packt.ca) ☕.
+I am interning at [407 ETR](https://www.407etr.com/en/index.html) 🛣️ as a Cloud Engineer. 
+
+Prior to that, I volunteered to develop software at [Packt](packt.ca) ☕.
 
 The world is welcome to contact me at `samhuifromhk@gmail.com`.
 
 
 ## Skill development roadmap 🌱
-These are just some of the technologies and tools that I aim to (re)learn and build projects with in 2023:
+These are just a handful of the tools and technologies that I aim to (re)learn and build projects with in 2023:
 
-- Vanilla HTML, CSS, JS
-- DOM API
-- React
-- Next.js
-- Express
-- MongoDB
-- Rust
-- Docker
-- AWS
+```python
+to_learn = ["Vanilla HTML, CSS, JS", "DOM API", "React", "Next.js", "Express", "MongoDB", "Rust", "Docker", "AWS"]
+```
 
 
 ## Find me around the web :earth_americas:
