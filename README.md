@@ -15,8 +15,8 @@ These are just a handful topics that I aim to (re)learn and build projects with 
 
 ```javascript
 const toLearn = {
-	"fields": ["theory and implementation of distributed systems", "system design", "parallel programming"],
-	"tech": ["dom api", "next.js", "cassandra" "mongodb", "rust", "docker", "aws"]
+	"fields": ["distributed systems", "system design", "parallel programming"],
+	"tech": ["kafka", "cassandra" "mongodb", "rust", "docker", "aws", "next.js"]
 }
 ```
 
