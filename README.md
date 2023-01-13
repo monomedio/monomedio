@@ -1,11 +1,11 @@
 # Hi, I'm Sam 👋🏼👨🏻‍💻
-I'm a Software Engineer with experience in full-stack and cloud development. I also study Computer Science at the University of Toronto.
+I'm a budding Software Engineer with experience in full-stack and cloud development. I also study Computer Science at the University of Toronto.
 
 
 ## Work Experience :computer:
-I am interning at [407 ETR](https://www.407etr.com/en/index.html) 🛣️ as a Software Engineer. Prior to that, I had volunteered to develop software at [Packt](packt.ca) ☕.
+I am interning at [407 ETR](https://www.407etr.com/en/index.html) 🛣️ as a Cloud Engineer. Prior to that, I had volunteered to develop software at [Packt](packt.ca) ☕.
 
-For a complete resumé, you can reach me [here](mailto:samhuifromhk@gmail.com).
+The world is welcome to contact me at `samhuifromhk@gmail.com`.
 
 
 ## Skill development roadmap 🌱
