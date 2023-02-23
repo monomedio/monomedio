@@ -29,4 +29,4 @@ const toLearn = {
 
 ## GPG Fingerprint
 
-```AF69 100F 6B5B CFBC CD57  B2E5 7DC3 4D13 6A1F D056```
+```AF69 100F 6B5B CFBC CD57  B2E5 7DC3 4D13 6A1F D056``` [(OpenPGP)](https://keys.openpgp.org/vks/v1/by-fingerprint/AF69100F6B5BCFBCCD57B2E57DC34D136A1FD056)
