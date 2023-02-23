@@ -25,3 +25,8 @@ const toLearn = {
 - Building my professional network on [LinkedIn](https://www.linkedin.com/in/chinghui/)
 - Sharing my life in photographs on [Instagram](https://www.instagram.com/samhooey/)
 - Listening to music on [Spotify](https://open.spotify.com/user/1279200303?si=1a20bb3d90154833)
+
+
+## GPG Fingerprint
+
+```AF69 100F 6B5B CFBC CD57  B2E5 7DC3 4D13 6A1F D056```
