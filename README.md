@@ -3,7 +3,7 @@ I'm a budding Software Engineer with experience in full-stack and cloud developm
 
 
 ## Work Experience :computer:
-I am interning at [407 ETR](https://www.407etr.com/en/index.html) 🛣️ as a Cloud Engineer. 
+I interned at [407 ETR](https://www.407etr.com/en/index.html) 🛣️ as a Softwarwe Developer and Cloud Engineer. 
 
 Prior to that, I volunteered to develop software at [Packt](packt.ca) ☕.
 
