@@ -11,7 +11,7 @@ The world is welcome to contact me at `samhuifromhk@gmail.com`.
 
 
 ## Knowledge development roadmap 🌱
-These are just a handful topics that I aim to (re)learn and build projects with in 2023:
+These are just a handful topics that I aim to (re)learn and build projects with in 2024:
 
 ```javascript
 const toLearn = {
