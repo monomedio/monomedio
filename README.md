@@ -16,7 +16,7 @@ These are just a handful topics that I aim to (re)learn and build projects with 
 ```javascript
 const toLearn = {
 	"fields": ["distributed systems", "data streaming", "system design", "parallel programming"],
-	"tech": ["kafka", "database tuning", "rust", "docker", "aws"]
+	"tech": ["kafka", "database tuning", "rust", "containerization + k8s", "aws"]
 }
 ```
 
