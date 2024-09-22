@@ -6,7 +6,7 @@ I'm a Computer Science graduate from the University of Toronto, with experience 
 - [Packt](https://www.packt.com/) ☕: Software Engineer Intern working on Full-Stack Development.
 
 ## Volunteer Experience 🎗️
-- [Canada Learning Code](https://www.canadalearningcode.ca/) 🇨🇦: Workshop MEntor teaching youth participants introductory Python, HTML, CSS, and JavaScript, while fostering a safe and inclusive environment.
+- [Canada Learning Code](https://www.canadalearningcode.ca/) 🇨🇦: Workshop Mentor teaching youth participants introductory Python, HTML, CSS, and JavaScript, while fostering a safe and inclusive environment.
 
 ## Interests 🌱
 Topics I aim to (re)learn and tinker with:
