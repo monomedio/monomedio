@@ -18,7 +18,7 @@ Topics I aim to (re)learn and tinker with:
 let toLearn = {
 	// Last updated: 2024-09-22
 	"fields": ["distributed systems", "data streaming", "system design and scalability", "parallel programming"],
-	"tech": ["kafka", "rust", "go, "kubernetes", "aws", "apache spark", "apache airflow"]
+	"tech": ["kafka", "rust", "go", "kubernetes", "aws", "apache spark", "apache airflow"]
 }
 ```
 
