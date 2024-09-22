@@ -1,32 +1,26 @@
 # Hi, I'm Sam 👋🏼👨🏻‍💻
-I'm a budding Software Engineer with experience in full-stack engineering, cloud services, and distributed systems development. 
-
-I also studied Computer Science at the University of Toronto.
-
+I'm a Computer Science graduate from the University of Toronto, with experience in **full-stack engineering**, **cloud services**, and **distributed systems development**.
 
 ## Work Experience :computer:
-I interned at [407 ETR](https://www.407etr.com/en/index.html) 🛣️ as a Softwarwe Engineer working in full-stack development and site reliability engineering using AWS services.
-
-Prior to that, I developed software for [Packt](packt.ca) ☕.
-
-The world is welcome to contact me at `hello@shui.dev`.
-
+- [407 ETR](https://www.407etr.com/en/index.html) 🛣️: Software Engineer Intern working on Full-Stack Development and Site Reliability Engineering using AWS services.
+- [Packt](https://www.packt.com/) ☕: Software Engineer Intern working on Full-Stack Development.
 
 ## Interests 🌱
-These are just a handful topics that I aim to (re)learn and build projects with in 2024:
+Topics I aim to (re)learn and tinker with:
 
 ```javascript
-const toLearn = {
-	"fields": ["distributed systems", "data streaming", "system design", "parallel programming"],
-	"tech": ["kafka", "rust", "k8s", "aws", "apache spark", "apache airflow"]
+let toLearn = {
+	// Last updated: 2024-09-22
+	"fields": ["distributed systems", "data streaming", "system design and scalability", "parallel programming"],
+	"tech": ["kafka", "rust", "go, "kubernetes", "aws", "apache spark", "apache airflow"]
 }
 ```
 
-
-## Find me around the web :earth_americas:
-- Building my professional network on [LinkedIn](https://www.linkedin.com/in/chinghui/)
-- Sharing my life in photographs on [VSCO](https://vsco.co/monomedio/gallery)
-- Listening to music on [Spotify](https://open.spotify.com/user/1279200303?si=1a20bb3d90154833)
+## Connect with me :earth_americas:
+- 📧 [Email](mailto:hello@shui.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chinghui/)
+- 🎞️ [VSCO](https://vsco.co/monomedio/gallery)
+- 🎧 [Spotify](https://open.spotify.com/user/1279200303?si=1a20bb3d90154833)
 
 
 ## GPG Fingerprint
