@@ -10,7 +10,7 @@ Prior to that, I developed software for [Packt](packt.ca) ☕.
 The world is welcome to contact me at `hello@shui.dev`.
 
 
-## Knowledge development roadmap 🌱
+## Interests 🌱
 These are just a handful topics that I aim to (re)learn and build projects with in 2024:
 
 ```javascript
