@@ -1,5 +1,7 @@
 # Hi, I'm Sam 👋🏼👨🏻‍💻
-I'm a budding Software Engineer with experience in full-stack engineering, cloud services, and distributed systems development. I also studied Computer Science at the University of Toronto.
+I'm a budding Software Engineer with experience in full-stack engineering, cloud services, and distributed systems development. 
+
+I also studied Computer Science at the University of Toronto.
 
 
 ## Work Experience :computer:
@@ -16,7 +18,7 @@ These are just a handful topics that I aim to (re)learn and build projects with 
 ```javascript
 const toLearn = {
 	"fields": ["distributed systems", "data streaming", "system design", "parallel programming"],
-	"tech": ["kafka", "database tuning", "rust", "containerization + k8s", "aws", "apache spark", "apache airflow"]
+	"tech": ["kafka", "rust", "k8s", "aws", "apache spark", "apache airflow"]
 }
 ```
 
