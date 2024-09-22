@@ -2,6 +2,9 @@
 I'm a Computer Science graduate from the University of Toronto, with experience in **full-stack engineering**, **cloud services**, and **distributed systems development**.
 
 ## Work Experience :computer:
+
+For a detailed resume, please contact me via email.
+
 - [407 ETR](https://www.407etr.com/en/index.html) 🛣️: Software Engineer Intern working on Full-Stack Development and Site Reliability Engineering using AWS services.
 - [Packt](https://www.packt.com/) ☕: Software Engineer Intern working on Full-Stack Development.
 
